@@ -58,15 +58,3 @@ This project uses a movie dataset containing:
 1. Download the repository
 2. Open Jupyter Notebook
 3. Run all cells
-
----
-
-## 🔗 Submission Proof
-
-This repository contains the complete implementation of Task-02 as required.
-
----
-
-## 👤 Author
-
-[Your Name]
